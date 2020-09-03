@@ -1,3 +1,2 @@
-class SampleModel
-  attr_accessor :name, :age
+class SampleModel < ActiveRecord::Base
 end
